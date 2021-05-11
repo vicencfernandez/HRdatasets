@@ -1,0 +1,13 @@
+Package: HRdatasets
+Type: Package
+Title: Data sets for basic and advanced HR analytics  
+Version: 0.1.0
+Author: Vicenc Fernandez
+Maintainer: Vicenc Fernandez <vicenc.fernandez@upc.edu>
+Description: A collection of datasets for making easier distributing example datasets on HR analytics.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0)
+URL: https://github.com/vicencfernandez/HRdatasets
+RoxygenNote: 7.1.1
