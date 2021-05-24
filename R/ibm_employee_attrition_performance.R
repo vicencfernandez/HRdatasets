@@ -27,7 +27,7 @@
 #' \item{MonthlyRate}{Numerical Value - Monthly rate by the Employee Work.}
 #' \item{NumCompaniesWorked}{Numerical Value - No. of Companies Worked At.}
 #' \item{Over18}{Factor Value - If the Age is oiver 18 (1=Yes, 2=No).}
-#' \item{OverTime}Factor Value - If the Employee Spends more Time than Expected at Work {(1=Yes, 2=No).}
+#' \item{OverTime}{Factor Value - If the Employee Spends more Time than Expected at Work (1=Yes, 2=No).}
 #' \item{PercentSalaryHike}{Numerical Value - Percentage Increase in Salary.}
 #' \item{PerformanceRating}{Numerical Value - Performance Rating.}
 #' \item{RelationshipSatisfaction}{Numerical Value - Level of Relations Satisfaction.}
