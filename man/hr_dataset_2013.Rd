@@ -35,9 +35,6 @@ A data frame with 550 observations.
 \item{On foot}{A binnary variable. '1' means that the most common way to go the company is on foot.}
 }
 }
-
-
-
 \usage{
 hr_dataset_2013
 }
